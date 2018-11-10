@@ -1,0 +1,2 @@
+# Vikcoin
+Cryptocurrency
